@@ -9,6 +9,7 @@ verify_ssl = true
 scrapy = "*"
 kafka-python = "*"
 scrapy-splash = "*"
+scrapy-selenium = "*"
 
 [requires]
 python_version = "3.7"
